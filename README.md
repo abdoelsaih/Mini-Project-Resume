@@ -19,7 +19,7 @@ This is a Resume website, turn your CV into professional website resume that exp
 - jQuery
 - Javascript
 - Bootstrap
-- Google Maps and its API Key 
+- Google Maps api
 - Json
 
 ## Mobile-responsive
