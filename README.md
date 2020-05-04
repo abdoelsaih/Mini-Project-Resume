@@ -13,6 +13,10 @@ This is a Resume website, turn your CV into professional website resume that exp
 - Be unique
 - Show your ability
 - Eye catching profile
+- Download you CV file in PDF 
+- View my Github profile 
+- You can also search on other user profiles 
+
 
 ## Technologies Used
 - HTML and CSS - Base languages used to create the website
@@ -20,7 +24,7 @@ This is a Resume website, turn your CV into professional website resume that exp
 - Javascript
 - Bootstrap
 - Google Maps api
-- Json
+- JSON
 
 ## Mobile-responsive
 - The webpages work on small to medium devices (i.e. mobile phones to laptops).
